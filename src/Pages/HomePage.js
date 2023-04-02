@@ -9,13 +9,14 @@ import Location from './Location';
 import { userContext } from '../Context/userContext';
 import { onAuthStateChanged } from 'firebase/auth';
 import { auth } from '../Auth/UserAuthentication';
+import useLugun from '../Hooks/useLugun';
 
 export default function HomePage() {
 
   const [openLogin, setOpenLogin] = useState(false)
   const [openRegister, setOpenRegister] = useState(false)
   const {user, getUser} = useContext(userContext)
-  const userId = !user ? "loading"  :user
+  useLugun()
 
   // here is a function that toggle the login form
   function toggleLogin(){
