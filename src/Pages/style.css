@@ -1,0 +1,222 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 4rem;
+}
+.home{
+    position: relative;
+}
+.register{
+    display: flex;
+    gap: 1rem;
+}
+.btn{
+    border: 1px solid;
+    padding: .5rem .8rem;
+    outline: none;
+    border-radius: .5rem;
+    background-color: transparent;
+    font-weight: 600;
+    cursor: pointer;
+}
+.logout{
+    background-color: red;
+    color: white;
+}
+.logout:hover{
+    background-color: transparent;
+    color: red;
+}
+.login{
+    background-color: teal;
+    color: white;
+}
+.login:hover{
+    background-color: transparent;
+    color: teal;
+}
+.signup{
+    background-color: black;
+    color: white;
+}
+.signup:hover{
+    background-color: transparent;
+    color: black;
+}
+.reg-form{
+    width: 19rem;
+    padding: 2rem 1rem 1rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 15rem;
+    margin: auto;
+    border: .1px solid teal;
+    border-radius: .6rem;
+    z-index: 10;
+    background-color: white;
+}
+h4{
+    margin-block: .8rem;
+    text-align: center;
+    color: gray;
+}
+label,input{
+    display: block;
+    margin-block: .2rem;
+}
+label{
+    font-size: .7rem;
+    font-weight: 700;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid brown;
+    width: 15rem;
+    padding: .2rem .5rem;
+    background-color: transparent;
+}
+.reg-sign{
+    margin: 1rem 0;
+}
+.reg-form select{
+    width: 5rem;
+    padding: .2rem 0;
+    border-radius: .2rem;
+}
+.reg-form p{
+    text-align: center;
+    color: white;
+    font-size: .7rem;
+    background-color: red;
+    padding-block: .4rem;
+    border-radius: .3rem;
+}
+.use{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.nav .form select{
+    width: 15rem;
+    padding: .4rem;
+    border-radius: .3rem;
+}
+.card{
+    max-width: 15rem;
+    padding: 1rem .7rem;
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+    border-radius: .2rem;
+    z-index: 8;
+    border: 1px solid teal;
+    position: absolute;
+    left: 100vw;
+    margin: 1rem;
+    background-color: white;
+}
+.show{
+    left: 0;
+    transition: all ease-in 200s;
+}
+.card h6{
+    font-size: .8rem;
+    border-bottom: 1px dashed brown;
+    width: max-content;
+    color: darkslategrey;
+}
+.card p{
+    font-size: .9rem;
+}
+.card-form{
+    max-width: 22rem;
+    padding: .7rem .5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+}
+.card-form input{
+    border-bottom: 1px solid gray;
+    width: max-content;
+}
+.card-form textarea{
+    outline: none;
+    border: 1px solid gray;
+    border-radius: .2rem;
+    height: 3rem;
+    padding: .2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+.card-form label{
+    color: tomato;
+    font-size: .9rem;
+}
+.card-form select{
+    padding: .3rem;
+    border-radius: .3rem;
+}
+.card-form button{
+    width: max-content;
+    background-color: lightseagreen;
+    color: white;
+}
+.rating-card{
+    display: flex;
+    gap: .2rem;
+}
+.out{
+    display: flex;
+    justify-content: end;
+}
+.bttn{
+    padding: .3rem .7rem;
+    font-size: .6rem;
+    background-color: red;
+    outline: none;
+    border-radius: .9rem;
+    color: white;
+    border: none;
+}
+
+
+
+@media screen and (max-width:427px) {
+    .nav{
+        margin: 1rem 0;
+        padding-block: 2rem;
+    }
+   .btn{
+    padding: .4rem .6rem;
+    font-size: .9rem;
+   }
+   .nav .form select,
+   .nav .form select option{
+    width: 8rem;
+    padding: .4rem;
+   }
+   .reg-form{
+    width: 18rem;
+    padding: 1.4rem .8rem .8rem;
+   }
+   .use{
+    gap: .3rem;
+   }
+   .card{
+    max-width: 10rem;
+   }
+   .card h6{
+    font-size: .77rem;
+   }
+   .card p{
+    font-size: .7rem;
+   }
+   .home{
+    padding-inline: .3rem;
+    }
+    
+}

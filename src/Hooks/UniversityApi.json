@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "name": "Abia State University",
+    "latitude": 5.33,
+    "longtitude": 6.03,
+    "acrimony": "ABSU"
+  },
+  {
+    "id": 2,
+    "name": "Abubakar Tafawa Balewa University",
+    "latitude": 10.18,
+    "longtitude": 9.5,
+    "acrimony": "ATBU"
+  },
+  {
+    "id": 3,
+    "name": "Achievers University",
+    "latitude": 7.11,
+    "longtitude": 5.35,
+    "acrimony": "AC"
+  },
+  {
+    "id": 4,
+    "name": "Adamawa State University",
+    "latitude": 10.16,
+    "longtitude": 13.16,
+    "acrimony": "ADSU"
+  },
+  {
+    "id": 5,
+    "name": "Adekunle Ajasin University",
+    "latitude": 7.473,
+    "longtitude": 5.736,
+    "acrimony": "AAUA"
+  },
+  {
+    "id": 6,
+    "name": "Adeleke University",
+    "latitude": 7.44,
+    "longtitude": 4.26,
+    "acrimony": "AUE"
+  },
+  {
+    "id": 7,
+    "name": "Afe Babalola University",
+    "latitude": 7.37,
+    "longtitude": 5.13,
+    "acrimony": "ABUAD"
+  },
+  {
+    "id": 8,
+    "name": "Ahmadu Bello University",
+    "latitude": 11.04,
+    "longtitude": 7.42,
+    "acrimony": "ABU"
+  },
+  {
+    "id": 9,
+    "name": "Ajayi Crowther University",
+    "latitude": 7.87,
+    "longtitude": 3.933,
+    "acrimony": "ACU"
+  },
+  {
+    "id": 10,
+    "name": "Akwa Ibom State University ",
+    "latitude": 5,
+    "longtitude": 7.5,
+    "acrimony": "AKSU"
+  },
+  {
+    "id": 11,
+    "name": "Al-Hikmah University",
+    "latitude": 8.3,
+    "longtitude": 4.33,
+    "acrimony": "AHU"
+  },
+  {
+    "id": 12,
+    "name": "Ambrose Alli University",
+    "latitude": 6.45,
+    "longtitude": 6.08,
+    "acrimony": "AAU"
+  },
+  {
+    "id": 13,
+    "name": "American University of Nigeria",
+    "latitude": 9.23,
+    "longtitude": 12.46,
+    "acrimony": "AUN"
+  },
+  {
+    "id": 14,
+    "name": "Atlantic African Oriental Multicultural University",
+    "latitude": 9.55,
+    "longtitude": 8.53,
+    "acrimony": "ATAFOM"
+  },
+  {
+    "id": 15,
+    "name": "Babcock University",
+    "latitude": 6.54,
+    "longtitude": 3.43,
+    "acrimony": "BU"
+  },
+  {
+    "id": 16,
+    "name": "Bakassi Technical University",
+    "latitude": 5,
+    "longtitude": 7.5,
+    "acrimony": "BTU"
+  },
+  {
+    "id": 17,
+    "name": "Bayero University",
+    "latitude": 12,
+    "longtitude": 8.31,
+    "acrimony": "BUK"
+  },
+  {
+    "id": 18,
+    "name": "Baze University",
+    "latitude": 9.4,
+    "longtitude": 7.29,
+    "acrimony": "Baze Uni"
+  },
+  {
+    "id": 19,
+    "name": "Bells University of Technology",
+    "latitude": 7.57,
+    "longtitude": 4.47,
+    "acrimony": "BUT"
+  },
+  {
+    "id": 20,
+    "name": "Benson Idahosa University",
+    "latitude": 6.2,
+    "longtitude": 5.37,
+    "acrimony": "BIU"
+  },
+  {
+    "id": 21,
+    "name": "Benue State University",
+    "latitude": 7.2,
+    "longtitude": 8.45,
+    "acrimony": "BSU"
+  },
+  {
+    "id": 22,
+    "name": "Bowen University",
+    "latitude": 7.38,
+    "longtitude": 4.11,
+    "acrimony": "BU"
+  },
+  {
+    "id": 23,
+    "name": "Bukar Abba Ibrahim University",
+    "latitude": 11.44,
+    "longtitude": 11.57,
+    "acrimony": "YSU"
+  },
+  {
+    "id": 24,
+    "name": "Caleb University",
+    "latitude": 6.44,
+    "longtitude": 3.38,
+    "acrimony": "CUl"
+  },
+  {
+    "id": 25,
+    "name": "Caritas University",
+    "latitude": 6.27,
+    "longtitude": 7.3,
+    "acrimony": "CU"
+  },
+  {
+    "id": 26,
+    "name": "CETEP City University",
+    "latitude": 6.44,
+    "longtitude": 3.38,
+    "acrimony": "CETEP"
+  },
+  {
+    "id": 27,
+    "name": "Chukwuemeka Odumegwu Ojukwu University ",
+    "latitude": 5.47,
+    "longtitude": 6.52,
+    "acrimony": "\tANSU"
+  },
+  {
+    "id": 28,
+    "name": "City University of Technology",
+    "latitude": 10.31,
+    "longtitude": 7.26,
+    "acrimony": "CUT"
+  },
+  {
+    "id": 29,
+    "name": "Covenant University",
+    "latitude": 7.57,
+    "longtitude": 4.47,
+    "acrimony": "CU"
+  },
+  {
+    "id": 30,
+    "name": "Crescent University",
+    "latitude": 7.9,
+    "longtitude": 3.2,
+    "acrimony": "Crescent"
+  },
+  {
+    "id": 31,
+    "name": "Cross River University of Technology",
+    "latitude": 4.58,
+    "longtitude": 8.2,
+    "acrimony": "CRUTECH"
+  },
+  {
+    "id": 32,
+    "name": "Delta State University of Science and Technology, Ozoro",
+    "latitude": 5.533,
+    "longtitude": 6.21,
+    "acrimony": "DSPZ"
+  },
+  {
+    "id": 33,
+    "name": "Dennis Osadebe University, Asaba",
+    "latitude": 6.11,
+    "longtitude": 6.44,
+    "acrimony": "DOU"
+  },
+  {
+    "id": 34,
+    "name": "Ebonyi State University",
+    "latitude": 6.2,
+    "longtitude": 8.6,
+    "acrimony": "EBSU"
+  },
+  {
+    "id": 35,
+    "name": "Elizade University",
+    "latitude": 7.2,
+    "longtitude": 5.06,
+    "acrimony": "EU"
+  },
+  {
+    "id": 36,
+    "name": "Enugu State University of Science and Technology ",
+    "latitude": 6.27,
+    "longtitude": 7.3,
+    "acrimony": "ESUT"
+  },
+  {
+    "id": 37,
+    "name": "Federal University of Agriculture, Abeokuta",
+    "latitude": 7.9,
+    "longtitude": 3.2,
+    "acrimony": "FUNAAB"
+  },
+  {
+    "id": 38,
+    "name": "Federal University, Dutsin-Ma",
+    "latitude": 12.59,
+    "longtitude": 7.36,
+    "acrimony": "FUDM"
+  },
+  {
+    "id": 39,
+    "name": "Federal University of Technology Akure",
+    "latitude": 7.25,
+    "longtitude": 5.19,
+    "acrimony": "FUTA"
+  },
+  {
+    "id": 40,
+    "name": "Fountain University, Osogbo",
+    "latitude": 7.46,
+    "longtitude": 4.34,
+    "acrimony": "FUO"
+  },
+  {
+    "id": 41,
+    "name": "Godfrey Okoye University",
+    "latitude": 6.27,
+    "longtitude": 7.3,
+    "acrimony": "GOU"
+  },
+  {
+    "id": 42,
+    "name": "Gregory University",
+    "latitude": 5.51,
+    "longtitude": 7.3,
+    "acrimony": "GUU"
+  },
+  {
+    "id": 43,
+    "name": "Joseph Ayo Babalola University",
+    "latitude": 7.46,
+    "longtitude": 4.34,
+    "acrimony": "JABU"
+  },
+  {
+    "id": 44,
+    "name": "Koladaisi University",
+    "latitude": 7.23,
+    "longtitude": 3.55,
+    "acrimony": "\tKU"
+  },
+  {
+    "id": 45,
+    "name": "Lagos State University",
+    "latitude": 6.35,
+    "longtitude": 3.45,
+    "acrimony": "LASU"
+  },
+  {
+    "id": 46,
+    "name": "Landmark University",
+    "latitude": 8.3,
+    "longtitude": 5,
+    "acrimony": "LU"
+  },
+  {
+    "id": 47,
+    "name": "Mewar International University",
+    "latitude": 8.32,
+    "longtitude": 8.18,
+    "acrimony": "MIU Nigeria"
+  },
+  {
+    "id": 48,
+    "name": "Michael and Cecilia Ibru University",
+    "latitude": 5.3,
+    "longtitude": 6,
+    "acrimony": "MCIU"
+  },
+  {
+    "id": 49,
+    "name": "Nasarawa State University",
+    "latitude": 8.32,
+    "longtitude": 8.18,
+    "acrimony": "NSUK"
+  },
+  {
+    "id": 50,
+    "name": "National Open University of Nigeria",
+    "latitude": 6.25,
+    "longtitude": 3.25,
+    "acrimony": "NOUN"
+  },
+  {
+    "id": 51,
+    "name": "Nile University of Nigeria",
+    "latitude": 9.4,
+    "longtitude": 7.29,
+    "acrimony": "NUN"
+  },
+  {
+    "id": 52,
+    "name": "Nnamdi Azikiwe University",
+    "latitude": 6.2,
+    "longtitude": 7,
+    "acrimony": "NAU"
+  },
+  {
+    "id": 53,
+    "name": "Obafemi Awolowo University",
+    "latitude": 7.3,
+    "longtitude": 4.3,
+    "acrimony": "OAU"
+  },
+  {
+    "id": 54,
+    "name": "Oduduwa University",
+    "latitude": 7.3,
+    "longtitude": 4.3,
+    "acrimony": "OUI"
+  },
+  {
+    "id": 55,
+    "name": "Plateau State University",
+    "latitude": 9.1,
+    "longtitude": 9.45,
+    "acrimony": "PLASU"
+  },
+  {
+    "id": 56,
+    "name": "Redeemer's University Nigeria",
+    "latitude": 7.3,
+    "longtitude": 4.3,
+    "acrimony": "RUN"
+  },
+  {
+    "id": 57,
+    "name": "Skyline University Nigeria",
+    "latitude": 11.3,
+    "longtitude": 8.3,
+    "acrimony": "SUN"
+  },
+  {
+    "id": 58,
+    "name": "Taraba State University",
+    "latitude": 8.54,
+    "longtitude": 11.22,
+    "acrimony": "TSU"
+  },
+  {
+    "id": 59,
+    "name": "Umaru Musa Yar'adua University Katsina",
+    "latitude": 12.15,
+    "longtitude": 7.3,
+    "acrimony": "UMYU"
+  },
+  {
+    "id": 60,
+    "name": "University of Benin",
+    "latitude": 6.3,
+    "longtitude": 6,
+    "acrimony": "UNIBEN"
+  },
+  {
+    "id": 61,
+    "name": "University of Calabar",
+    "latitude": 5.45,
+    "longtitude": 8.3,
+    "acrimony": "UNICAL"
+  },
+  {
+    "id": 62,
+    "name": "University of Delta, Agbor",
+    "latitude": 5.3,
+    "longtitude": 6,
+    "acrimony": "UNIDEL"
+  },
+  {
+    "id": 63,
+    "name": "University of Ibadan",
+    "latitude": 8,
+    "longtitude": 4,
+    "acrimony": "UI"
+  },
+  {
+    "id": 64,
+    "name": "University of Jos",
+    "latitude": 9.1,
+    "longtitude": 9.45,
+    "acrimony": "\tUJ"
+  },
+  {
+    "id": 65,
+    "name": "University of Lagos",
+    "latitude": 6.35,
+    "longtitude": 3.45,
+    "acrimony": "UNILAG"
+  },
+  {
+    "id": 66,
+    "name": "University of Nigeria, Nsukka",
+    "latitude": 6.3,
+    "longtitude": 7.3,
+    "acrimony": "UNN"
+  },
+  {
+    "id": 67,
+    "name": "University of Port Harcourt",
+    "latitude": 4.45,
+    "longtitude": 6.5,
+    "acrimony": "UNIPORT"
+  },
+  {
+    "id": 68,
+    "name": "Veritas University",
+    "latitude": 8.5,
+    "longtitude": 7.1,
+    "acrimony": "VUNA"
+  },
+  {
+    "id": 69,
+    "name": "Westland University, Iwo",
+    "latitude": 7.3,
+    "longtitude": 4.3,
+    "acrimony": "WUI"
+  }
+]
