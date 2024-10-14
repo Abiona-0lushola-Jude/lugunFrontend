@@ -120,7 +120,7 @@ export default function HomePage() {
             }}
             style={{width: "96vw", height: "90vh"}}
             mapStyle="mapbox://styles/abionaolushola/cl97jbqym004717lae5rwb4rf"
-            mapboxAccessToken={process.env.REACT_APP_MAPTOKEN}
+            mapboxAccessToken="pk.eyJ1IjoiYWJpb25hb2x1c2hvbGEiLCJhIjoiY2xpaXh1bjhlMDJxZjNxa2R6YjdxcHlpOSJ9.KTFBnhKEM0YEnKJ9iprOmA"
             onClick ={handleDoubleClick}
             dragRotate={false}
             cursor="auto"
